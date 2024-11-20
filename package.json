@@ -1,0 +1,11 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "I am currently in learning phase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Prakash Thakur",
+  "license": "ISC"
+}
